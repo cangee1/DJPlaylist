@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DJMusicPlaylistManager", "DJMusicPlaylistManager\DJMusicPlaylistManager.csproj", "{682FDA60-1CAB-4DDD-9F7E-23EEF02FD872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682FDA60-1CAB-4DDD-9F7E-23EEF02FD872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682FDA60-1CAB-4DDD-9F7E-23EEF02FD872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682FDA60-1CAB-4DDD-9F7E-23EEF02FD872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682FDA60-1CAB-4DDD-9F7E-23EEF02FD872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD51206B-46D4-41A4-8269-E336105EB3EE}
+	EndGlobalSection
+EndGlobal
