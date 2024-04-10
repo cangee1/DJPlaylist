@@ -125,7 +125,7 @@ namespace DJMusicPlaylistManager.Interface
 
         public void PlaySongFile(PlayListManager playlistManager)
         {
-            string filePath = @"C:\\Users\\GeorgeCant\\source\\repos\\C#\\DJMusicPlaylistManager\\DJMusicPlaylistManager\\MusicFiles\\Closer.mp3";
+            string filePath = @""; // Add file path here
             string titleToPlay = GetUserInput("Enter the title of the song to play: ");
 
             // check filname without extension
